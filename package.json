@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/snailterror/sass-justalign#readme",
   "devDependencies": {
-    "browser-sync": "^2.8.2",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-sass": "^2.0.1",
