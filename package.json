@@ -1,0 +1,31 @@
+{
+  "name": "sass-justalign",
+  "version": "0.1.0",
+  "description": "Align vertical/horizontal/middle with absolute",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp dev --gulpfile bin/gulpfile.js",
+    "build": "gulp prod --gulpfile bin/gulpfile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/snailterror/sass-justalign.git"
+  },
+  "keywords": [
+    "sass-justalign"
+  ],
+  "author": "Adrien <espel.adrien@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/snailterror/sass-justalign/issues"
+  },
+  "homepage": "https://github.com/snailterror/sass-justalign#readme",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-util": "^3.0.6",
+    "run-sequence": "^1.1.1"
+  }
+}
